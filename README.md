@@ -1,5 +1,5 @@
 ### Hi, I'm Roenan! 👋
-<p>Aspiring software engineer with Bachelor's degree in Computer Science👨‍🎓from Holy Angel University, Philippines.</p>
+<p>Aspiring fullstack developer with Bachelor's degree in Computer Science👨‍🎓from Holy Angel University, Philippines.</p>
 
 ## About Me
 
