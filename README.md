@@ -14,4 +14,4 @@ I'm a passionate web developer with experience in frontend development. I enjoy 
 
 ## Contact
 
-You can reach me at [haliliroenan12@gmail.com](mailto:haliliroenan12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/roenan-simon-halili).
+You can reach me at [roenanhalili.work@gmail.com](mailto:roenanhalili.work@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/roenan-simon-halili).
